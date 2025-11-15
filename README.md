@@ -1,1 +1,1 @@
-# testing-practice
+This is the testing practice project for the Odin Project.
